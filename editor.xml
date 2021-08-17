@@ -4,8 +4,9 @@
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="20" />
+    <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="Triplicate T4c" />
-    <option name="LINE_SPACING" value="1.1" />
+    <option name="LINE_SPACING" value="1.0" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
 </application>
